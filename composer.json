@@ -1,0 +1,6 @@
+{
+    "name": "test/jwt_playground",
+    "require": {
+        "adhocore/jwt": "^0.1.0"
+    }
+}

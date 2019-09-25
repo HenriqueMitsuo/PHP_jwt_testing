@@ -1,6 +1,7 @@
 {
     "name": "test/jwt_playground",
     "require": {
-        "adhocore/jwt": "^0.1.0"
+        "adhocore/jwt": "^0.1.0",
+        "lcobucci/jwt": "^3.3"
     }
 }
